@@ -1,0 +1,7 @@
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Base\bin\Debug\WebApiSeguros.Base.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Base\bin\Debug\WebApiSeguros.Base.pdb
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Base\obj\Debug\WebApiSeguros.Base.Recursos.MensajesUsuario.resources
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Base\obj\Debug\WebApiSeguros.Base.csproj.GenerateResource.Cache
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Base\obj\Debug\WebApiSeguros.Base.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Base\obj\Debug\WebApiSeguros.Base.pdb
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Base\obj\Debug\WebApiSeguros.Base.csprojResolveAssemblyReference.cache

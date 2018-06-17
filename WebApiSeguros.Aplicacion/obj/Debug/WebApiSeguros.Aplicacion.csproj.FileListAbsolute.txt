@@ -1,0 +1,13 @@
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\bin\Debug\WebApiSeguros.Aplicacion.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\bin\Debug\WebApiSeguros.Aplicacion.pdb
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\bin\Debug\WebApiSeguros.Base.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\bin\Debug\WebApiSeguros.Datos.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\bin\Debug\WebApiSeguros.Dominio.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\bin\Debug\EntityFramework.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\bin\Debug\WebApiSeguros.Base.pdb
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\bin\Debug\WebApiSeguros.Datos.pdb
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\bin\Debug\WebApiSeguros.Dominio.pdb
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\bin\Debug\EntityFramework.xml
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\obj\Debug\WebApiSeguros.Aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\obj\Debug\WebApiSeguros.Aplicacion.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Aplicacion\obj\Debug\WebApiSeguros.Aplicacion.pdb

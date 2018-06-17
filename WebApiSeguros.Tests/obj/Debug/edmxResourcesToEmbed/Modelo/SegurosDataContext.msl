@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SegurosModelStoreContainer" CdmEntityContainer="SegurosEntities">
+    <EntitySetMapping Name="CubrimientoPolizas">
+      <EntityTypeMapping TypeName="SegurosModel.CubrimientoPolizas">
+        <MappingFragment StoreEntitySet="CubrimientoPolizas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Polizas">
+      <EntityTypeMapping TypeName="SegurosModel.Polizas">
+        <MappingFragment StoreEntitySet="Polizas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="CodigoCubrimiento" ColumnName="CodigoCubrimiento" />
+          <ScalarProperty Name="PorcentajeCobertura" ColumnName="PorcentajeCobertura" />
+          <ScalarProperty Name="InicioVigencia" ColumnName="InicioVigencia" />
+          <ScalarProperty Name="PeriodoCobertura" ColumnName="PeriodoCobertura" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+          <ScalarProperty Name="CodigoRiesgo" ColumnName="CodigoRiesgo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RiesgosPolizas">
+      <EntityTypeMapping TypeName="SegurosModel.RiesgosPolizas">
+        <MappingFragment StoreEntitySet="RiesgosPolizas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

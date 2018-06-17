@@ -1,0 +1,5 @@
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Dominio\bin\Debug\WebApiSeguros.Dominio.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Dominio\bin\Debug\WebApiSeguros.Dominio.pdb
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Dominio\obj\Debug\WebApiSeguros.Dominio.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Dominio\obj\Debug\WebApiSeguros.Dominio.pdb
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Dominio\obj\Debug\WebApiSeguros.Dominio.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\bin\Debug\WebApiSeguros.Datos.dll.config
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\bin\Debug\WebApiSeguros.Datos.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\bin\Debug\WebApiSeguros.Datos.pdb
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\bin\Debug\EntityFramework.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\bin\Debug\WebApiSeguros.Dominio.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\bin\Debug\WebApiSeguros.Dominio.pdb
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\bin\Debug\EntityFramework.xml
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\obj\Debug\WebApiSeguros.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\obj\Debug\WebApiSeguros.Datos.dll
+C:\Users\Adrián\Documents\Visual Studio 2015\Projects\WebApiSeguros\WebApiSeguros.Datos\obj\Debug\WebApiSeguros.Datos.pdb

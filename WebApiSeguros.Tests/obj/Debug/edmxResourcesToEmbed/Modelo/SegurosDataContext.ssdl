@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SegurosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CubrimientoPolizas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Polizas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="500" />
+    <Property Name="CodigoCubrimiento" Type="int" Nullable="false" />
+    <Property Name="PorcentajeCobertura" Type="decimal" Precision="4" Scale="2" Nullable="false" />
+    <Property Name="InicioVigencia" Type="datetime" Nullable="false" />
+    <Property Name="PeriodoCobertura" Type="int" Nullable="false" />
+    <Property Name="Precio" Type="decimal" Precision="15" Scale="2" />
+    <Property Name="CodigoRiesgo" Type="int" />
+  </EntityType>
+  <EntityType Name="RiesgosPolizas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6035: La relación 'FK__Polizas__CodigoC__5AEE82B9' tiene columnas que no forman parte de la clave de la tabla en el lado principal de la relación. Se excluyó la relación.
+        <Association Name="FK__Polizas__CodigoC__5AEE82B9" />-->
+  <!--Errores durante la generación:
+advertencia 6035: La relación 'FK__Polizas__CodigoR__5BE2A6F2' tiene columnas que no forman parte de la clave de la tabla en el lado principal de la relación. Se excluyó la relación.
+        <Association Name="FK__Polizas__CodigoR__5BE2A6F2" />-->
+  <EntityContainer Name="SegurosModelStoreContainer">
+    <EntitySet Name="CubrimientoPolizas" EntityType="Self.CubrimientoPolizas" Schema="Productos" store:Type="Tables" />
+    <EntitySet Name="Polizas" EntityType="Self.Polizas" Schema="Productos" store:Type="Tables" />
+    <EntitySet Name="RiesgosPolizas" EntityType="Self.RiesgosPolizas" Schema="Productos" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
